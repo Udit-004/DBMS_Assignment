@@ -11,12 +11,11 @@ This repository contains all Database Management Systems (DBMS) course assignmen
 DBMS_Assignment/
 ├─ Assignment_01/
 │ ├─ questions.pdf # Assignment questions
-│ ├─ Assignment_01.sql # SQL solution script
-│ └─ README.md # Optional notes for Assignment 01
+│ ├─ Assignment_Solution_01.sql # SQL solution script
 ├─ Assignment_02/
 │ ├─ questions.pdf
-│ ├─ Assignment_02.sql
-│ └─ README.md
+│ ├─ Assignment_Solution_02.sql
+
 ```
 
 
@@ -27,5 +26,5 @@ DBMS_Assignment/
 2. Navigate to the folder containing the `.sql` file.  
 3. Execute the script using:
 ```sql
-@Assignment_01.sql
+@Assignment_Solution_01.sql
 ```
