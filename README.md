@@ -18,7 +18,7 @@ DBMS_Assignment/
 │ ├─ Assignment_02.sql
 │ └─ README.md
 ```
-...
+
 
 
 ## ⚡ How to Run SQL Scripts
