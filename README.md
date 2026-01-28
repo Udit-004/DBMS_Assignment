@@ -7,7 +7,7 @@ This repository contains all Database Management Systems (DBMS) course assignmen
 ---
 
 ## 📂 Folder Structure
-
+```
 DBMS_Assignment/
 ├─ Assignment_01/
 │ ├─ questions.pdf # Assignment questions
@@ -17,6 +17,7 @@ DBMS_Assignment/
 │ ├─ questions.pdf
 │ ├─ Assignment_02.sql
 │ └─ README.md
+```
 ...
 
 
@@ -27,3 +28,4 @@ DBMS_Assignment/
 3. Execute the script using:
 ```sql
 @Assignment_01.sql
+```
