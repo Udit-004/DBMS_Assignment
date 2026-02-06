@@ -44,10 +44,12 @@ CREATE TABLE Course (
 --Enrollment Table
 CREATE TABLE Enrollment (
     Enrollment_ID INT PRIMARY KEY,
+    Semester VARCHAR(10),
     Grade CHAR(2),
     Student_ID INT,
     Course_ID INT,
     FOREIGN KEY (Student_ID) REFERENCES Student(Student_ID),
     FOREIGN KEY (Course_ID) REFERENCES Course(Course_ID)
 );
+
 
